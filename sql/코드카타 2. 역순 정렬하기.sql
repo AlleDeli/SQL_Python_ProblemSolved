@@ -1,4 +1,4 @@
--- link: https://school.programmers.co.kr/learn/courses/30/lessons/59035
+-- https://school.programmers.co.kr/learn/courses/30/lessons/59035
 
 SELECT NAME, DATETIME
 from ANIMAL_INS
